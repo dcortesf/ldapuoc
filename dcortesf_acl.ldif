@@ -1,0 +1,4 @@
+version: 1
+access to dn=".*,ou=Adm,ou=Paris,dc=impexpsa,dc=com"
+    attrs=*
+    by dn="uid=asanders,ou=Adm,ou=Paris,dc=impexpsa,dc=com" read
